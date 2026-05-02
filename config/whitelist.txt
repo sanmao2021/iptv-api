@@ -6,7 +6,7 @@
 # If the channel name is not filled in, the address will be added to the results of all channels, with multiple records entered on new lines.
 
 
-
+CCTV1,http://156.238.248.80:5566/4gtv-4gtv001/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
 
 
 [KEYWORDS]
